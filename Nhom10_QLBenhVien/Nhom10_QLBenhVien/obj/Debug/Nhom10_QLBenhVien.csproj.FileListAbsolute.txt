@@ -1,0 +1,99 @@
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.exe.config
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.exe
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.pdb
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.BenhNhan.resources
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Form1.resources
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.exe
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.pdb
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Khoa.resources
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Nhanvien.resources
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Phieukhambenh.resources
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Tenbenh.resources
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Thuoc.resources
+C:\Users\ADMIN\source\repos\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Dangnhap.resources
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.exe.config
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.exe
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.pdb
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.BenhNhan.resources
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Dangnhap.resources
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Form1.resources
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Khoa.resources
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Nhanvien.resources
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Phieukhambenh.resources
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Properties.Resources.resources
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Tenbenh.resources
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Thuoc.resources
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.csproj.GenerateResource.Cache
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.exe
+C:\Users\84938\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.pdb
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.exe.config
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.exe
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.pdb
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.BenhNhan.resources
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Dangnhap.resources
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Form1.resources
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Nhanvien.resources
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Phieukhambenh.resources
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Properties.Resources.resources
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Tenbenh.resources
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Thuoc.resources
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.csproj.GenerateResource.cache
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.exe
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.pdb
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.csprojAssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.BenhNhan.resources
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Dangnhap.resources
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Khoa.resources
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Nhanvien.resources
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Phieukhambenh.resources
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Tenbenh.resources
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Thuoc.resources
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.exe
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.pdb
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.exe.config
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.exe
+C:\Users\Asus\OneDrive\Desktop\Nhom10_QLBenhVien (2)\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.pdb
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.csproj.AssemblyReference.cache
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.csproj.CoreCompileInputs.cache
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Form2.resources
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.TraCuuBenh.resources
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.TraCuuThuoc.resources
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\LTCSDL.BLL.dll
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\LTCSDL.DTO.dll
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\LTCSDL.DAL.dll
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\LTCSDL.BLL.pdb
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\LTCSDL.DTO.pdb
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\LTCSDL.DAL.pdb
+D:\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.exe.config
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.exe
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\Nhom10_QLBenhVien.pdb
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\LTCSDL.BLL.dll
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\LTCSDL.DTO.dll
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\LTCSDL.DAL.dll
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\LTCSDL.BLL.pdb
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\LTCSDL.DTO.pdb
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\bin\Debug\LTCSDL.DAL.pdb
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.BenhNhan.resources
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Dangnhap.resources
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Form1.resources
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Form2.resources
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Nhanvien.resources
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Phieukhambenh.resources
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Tenbenh.resources
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.Thuoc.resources
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.TraCuuBenh.resources
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.TraCuuThuoc.resources
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.exe
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\Nhom10_QLBenhVien\obj\Debug\Nhom10_QLBenhVien.pdb

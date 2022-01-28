@@ -1,0 +1,12 @@
+D:\Nhom10_QLBenhVien\LTCSDL.DTO\bin\Debug\LTCSDL.DTO.dll
+D:\Nhom10_QLBenhVien\LTCSDL.DTO\bin\Debug\LTCSDL.DTO.pdb
+D:\Nhom10_QLBenhVien\LTCSDL.DTO\obj\Debug\LTCSDL.DTO.csproj.CoreCompileInputs.cache
+D:\Nhom10_QLBenhVien\LTCSDL.DTO\obj\Debug\LTCSDL.DTO.dll
+D:\Nhom10_QLBenhVien\LTCSDL.DTO\obj\Debug\LTCSDL.DTO.pdb
+D:\Nhom10_QLBenhVien\LTCSDL.DTO\obj\Debug\LTCSDL.DTO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\LTCSDL.DTO\bin\Debug\LTCSDL.DTO.dll
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\LTCSDL.DTO\bin\Debug\LTCSDL.DTO.pdb
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\LTCSDL.DTO\obj\Debug\LTCSDL.DTO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\LTCSDL.DTO\obj\Debug\LTCSDL.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\LTCSDL.DTO\obj\Debug\LTCSDL.DTO.dll
+C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\LTCSDL.DTO\obj\Debug\LTCSDL.DTO.pdb
