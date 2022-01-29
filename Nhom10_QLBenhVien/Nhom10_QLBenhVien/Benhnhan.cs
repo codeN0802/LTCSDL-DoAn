@@ -68,7 +68,7 @@ namespace Nhom10_QLBenhVien
                     newrow["QueQuan"] = txtQuequan.Text;
                     newrow["NgheNghiep"] = txtNgheN.Text;
                     newrow["NgaySinh"] = dTNS.Text;
-                    newrow["MaKhoa"] = cboTenbenh.SelectedValue.ToString();
+                   // newrow["MaKhoa"] = cboTenbenh.SelectedValue.ToString();
                     dtBenhNhan.Rows.Add(newrow);
                 }
                 Benhnhan_DataBiding();

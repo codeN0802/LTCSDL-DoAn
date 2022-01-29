@@ -16,3 +16,12 @@ C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\LTCSDL.DAL\obj\Debug\LTCSDL.DAL.cspro
 C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\LTCSDL.DAL\obj\Debug\LTCSDL.DAL.dll
 C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\LTCSDL.DAL\obj\Debug\LTCSDL.DAL.pdb
 C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\LTCSDL.DAL\obj\Debug\LTCSDL.DAL.csproj.AssemblyReference.cache
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.DAL\bin\Debug\LTCSDL.DAL.dll
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.DAL\bin\Debug\LTCSDL.DAL.pdb
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.DAL\bin\Debug\LTCSDL.DTO.dll
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.DAL\bin\Debug\LTCSDL.DTO.pdb
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.DAL\obj\Debug\LTCSDL.DAL.csproj.AssemblyReference.cache
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.DAL\obj\Debug\LTCSDL.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.DAL\obj\Debug\LTCSDL.DAL.csproj.CopyComplete
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.DAL\obj\Debug\LTCSDL.DAL.dll
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.DAL\obj\Debug\LTCSDL.DAL.pdb

@@ -20,3 +20,14 @@ C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\LTCSDL.BLL\obj\Debug\LTCSDL.BLL.cspro
 C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\LTCSDL.BLL\obj\Debug\LTCSDL.BLL.csproj.CopyComplete
 C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\LTCSDL.BLL\obj\Debug\LTCSDL.BLL.dll
 C:\Users\ADMIN\Downloads\Nhom10_QLBenhVien\LTCSDL.BLL\obj\Debug\LTCSDL.BLL.pdb
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.BLL\bin\Debug\LTCSDL.BLL.dll
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.BLL\bin\Debug\LTCSDL.BLL.pdb
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.BLL\bin\Debug\LTCSDL.DAL.dll
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.BLL\bin\Debug\LTCSDL.DTO.dll
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.BLL\bin\Debug\LTCSDL.DAL.pdb
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.BLL\bin\Debug\LTCSDL.DTO.pdb
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.BLL\obj\Debug\LTCSDL.BLL.csproj.AssemblyReference.cache
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.BLL\obj\Debug\LTCSDL.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.BLL\obj\Debug\LTCSDL.BLL.csproj.CopyComplete
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.BLL\obj\Debug\LTCSDL.BLL.dll
+C:\Users\HH\source\repos\Nhom10_QLBenhVien\LTCSDL.BLL\obj\Debug\LTCSDL.BLL.pdb

@@ -18,7 +18,7 @@ namespace Nhom10_QLBenhVien
         
         public Connection()
         {
-            string chuoiketnoi = @"Server=ADMIN-PC; database=DBQuanLyBenhVien; Integrated Security=true;"; //them \ hoac @
+            string chuoiketnoi = @"Server=DESKTOP-NT03218\SQLEXPRESS; database=DBQuanLyBenhVien; Integrated Security=true;"; //them \ hoac @
             con = new SqlConnection(chuoiketnoi);
             try
             {

@@ -18,7 +18,7 @@ namespace LTCSDL.DAL
 
         public BenhDAL()
         {
-            string cnStr = @"Server=ADMIN-PC; database=DBQuanLyBenhVien; Integrated Security=true;";
+            string cnStr = @"Server=DESKTOP-NT03218\SQLEXPRESS; database=DBQuanLyBenhVien; Integrated Security=true;";
             cnn = new SqlConnection(cnStr);
         }
         public List<Benh> GetAll()

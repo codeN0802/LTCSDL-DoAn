@@ -57,7 +57,8 @@ namespace Nhom10_QLBenhVien
         {
 
             Connection tim = new Connection();
-            dataGridView1.DataSource = tim.LAYDULIEU("select * from TenBenh$ where TenBenh like'%' +N'" + txtMaCanTim.Text + "'+ '%'");
+           // dataGridView1.DataSource = tim.LAYDULIEU("select * from TenBenh$ where TenBenh  like'%' +N'" + txtMaCanTim.Text + "'+ '%'");
+           dataGridView1.DataSource = tim.LAYDULIEU("select * from TenBenh$ where TrieuChung like'%' +N'" + txtMaCanTim.Text + "'+ '%'");
         }
     }
 }

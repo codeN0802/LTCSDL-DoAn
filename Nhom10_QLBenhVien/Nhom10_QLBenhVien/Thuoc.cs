@@ -151,7 +151,7 @@ namespace Nhom10_QLBenhVien
         private void btnTra_Click_1(object sender, EventArgs e)
         {
             Connection tim = new Connection();
-            dataGridView1.DataSource = tim.LAYDULIEU("select * from Thuoc$ where TenThuoc like'%' +N'" + txtMaCanTim.Text + "'+ '%'");
+            dataGridView1.DataSource = tim.LAYDULIEU("select * from Thuoc$ where MaBenh like'%' +N'" + txtMaCanTim.Text + "'+ '%'");
         }
         //public void HienThi()
         //{

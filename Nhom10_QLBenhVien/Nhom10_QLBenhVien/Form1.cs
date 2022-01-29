@@ -14,6 +14,7 @@ namespace Nhom10_QLBenhVien
     {
         public Form1()
         {
+            this.Size = new Size(1666, 2000);
             InitializeComponent();
         }
         
@@ -66,6 +67,9 @@ namespace Nhom10_QLBenhVien
             dangnhap.Show();
         }
 
-       
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.StartPosition = FormStartPosition.CenterScreen;
+        }
     }
 }

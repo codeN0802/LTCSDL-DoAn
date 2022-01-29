@@ -54,49 +54,49 @@ namespace Nhom10_QLBenhVien
             this.thuôcToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(917, 30);
+            this.menuStrip1.Size = new System.Drawing.Size(1466, 28);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // đăngNhâpToolStripMenuItem
             // 
             this.đăngNhâpToolStripMenuItem.Name = "đăngNhâpToolStripMenuItem";
-            this.đăngNhâpToolStripMenuItem.Size = new System.Drawing.Size(96, 26);
+            this.đăngNhâpToolStripMenuItem.Size = new System.Drawing.Size(96, 24);
             this.đăngNhâpToolStripMenuItem.Text = "Đăng nhập";
             this.đăngNhâpToolStripMenuItem.Click += new System.EventHandler(this.đăngNhâpToolStripMenuItem_Click);
             // 
             // frm1
             // 
             this.frm1.Name = "frm1";
-            this.frm1.Size = new System.Drawing.Size(95, 26);
+            this.frm1.Size = new System.Drawing.Size(95, 24);
             this.frm1.Text = "Bệnh Nhân";
             this.frm1.Click += new System.EventHandler(this.bênhNhânToolStripMenuItem_Click);
             // 
             // nhânViênToolStripMenuItem
             // 
             this.nhânViênToolStripMenuItem.Name = "nhânViênToolStripMenuItem";
-            this.nhânViênToolStripMenuItem.Size = new System.Drawing.Size(91, 26);
+            this.nhânViênToolStripMenuItem.Size = new System.Drawing.Size(91, 24);
             this.nhânViênToolStripMenuItem.Text = "Nhân Viên";
             this.nhânViênToolStripMenuItem.Click += new System.EventHandler(this.nhânViênToolStripMenuItem_Click);
             // 
             // phiêuKhamBênhToolStripMenuItem
             // 
             this.phiêuKhamBênhToolStripMenuItem.Name = "phiêuKhamBênhToolStripMenuItem";
-            this.phiêuKhamBênhToolStripMenuItem.Size = new System.Drawing.Size(140, 26);
+            this.phiêuKhamBênhToolStripMenuItem.Size = new System.Drawing.Size(140, 24);
             this.phiêuKhamBênhToolStripMenuItem.Text = "Phiếu khám bệnh ";
             this.phiêuKhamBênhToolStripMenuItem.Click += new System.EventHandler(this.phiêuKhamBênhToolStripMenuItem_Click);
             // 
             // tênBênhToolStripMenuItem
             // 
             this.tênBênhToolStripMenuItem.Name = "tênBênhToolStripMenuItem";
-            this.tênBênhToolStripMenuItem.Size = new System.Drawing.Size(87, 26);
+            this.tênBênhToolStripMenuItem.Size = new System.Drawing.Size(87, 24);
             this.tênBênhToolStripMenuItem.Text = "Tên bệnh ";
             this.tênBênhToolStripMenuItem.Click += new System.EventHandler(this.tênBênhToolStripMenuItem_Click);
             // 
             // thuôcToolStripMenuItem
             // 
             this.thuôcToolStripMenuItem.Name = "thuôcToolStripMenuItem";
-            this.thuôcToolStripMenuItem.Size = new System.Drawing.Size(63, 26);
+            this.thuôcToolStripMenuItem.Size = new System.Drawing.Size(63, 24);
             this.thuôcToolStripMenuItem.Text = "Thuốc";
             this.thuôcToolStripMenuItem.Click += new System.EventHandler(this.thuôcToolStripMenuItem_Click);
             // 
@@ -116,13 +116,14 @@ namespace Nhom10_QLBenhVien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(917, 554);
+            this.ClientSize = new System.Drawing.Size(1466, 776);
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Quản lý bệnh viện";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
